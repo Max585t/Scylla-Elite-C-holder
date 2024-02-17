@@ -2627,7 +2627,7 @@
 
   (footprint "Library:MountingHole_4mm_Pad_thin" (layer "F.Cu")
     (tstamp 86877f97-9a80-4197-bdcf-08dc5ade3380)
-    (at 112.76262 99.18266)
+    (at 112.776 99.18266)
     (descr "Mounting Hole 4mm")
     (tags "mounting hole 4mm")
     (property "Sheetfile" "adapter.kicad_sch")
